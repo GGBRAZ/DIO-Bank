@@ -1,0 +1,11 @@
+D:\ProjetosGuilherme\DIO-Bank\bin\Debug\netcoreapp3.1\DIO-Bank.exe
+D:\ProjetosGuilherme\DIO-Bank\bin\Debug\netcoreapp3.1\DIO-Bank.deps.json
+D:\ProjetosGuilherme\DIO-Bank\bin\Debug\netcoreapp3.1\DIO-Bank.runtimeconfig.json
+D:\ProjetosGuilherme\DIO-Bank\bin\Debug\netcoreapp3.1\DIO-Bank.runtimeconfig.dev.json
+D:\ProjetosGuilherme\DIO-Bank\bin\Debug\netcoreapp3.1\DIO-Bank.dll
+D:\ProjetosGuilherme\DIO-Bank\bin\Debug\netcoreapp3.1\DIO-Bank.pdb
+D:\ProjetosGuilherme\DIO-Bank\obj\Debug\netcoreapp3.1\DIO-Bank.csprojAssemblyReference.cache
+D:\ProjetosGuilherme\DIO-Bank\obj\Debug\netcoreapp3.1\DIO-Bank.AssemblyInfoInputs.cache
+D:\ProjetosGuilherme\DIO-Bank\obj\Debug\netcoreapp3.1\DIO-Bank.AssemblyInfo.cs
+D:\ProjetosGuilherme\DIO-Bank\obj\Debug\netcoreapp3.1\DIO-Bank.dll
+D:\ProjetosGuilherme\DIO-Bank\obj\Debug\netcoreapp3.1\DIO-Bank.pdb
